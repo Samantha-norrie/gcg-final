@@ -1,2 +1,2 @@
-# gcg-final
+# GoCodeGirl-webdev-demo
 Created with CodeSandbox
